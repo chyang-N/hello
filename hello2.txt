@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 changed by user1
+=======
+changed 1
+changed by user 2
+>>>>>>> 807b7d23656d4d8f37d33f250e09cd876a7fff94
